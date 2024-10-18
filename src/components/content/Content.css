@@ -1,0 +1,12 @@
+.PageContent {
+    display: flex;
+    flex-grow: 1;
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+    padding: 30px;
+    margin-left: var(--width-leftMenu);
+    margin-top: var(--height-TopMenu);
+    margin-bottom: var(--widht-footer);
+    position: fixed;
+    overflow: auto;
+}
