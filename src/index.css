@@ -3,7 +3,8 @@
 }
 
 body {
-    background-color: #3f3f3f;
+    height: 100vh; /* Garante que o body ocupe toda a altura da janela */
+    background: linear-gradient(#3f3f3f, #747474);
     color: white;
 }
 
@@ -21,4 +22,29 @@ footer {
     left: 0;
     overflow: hidden;
     z-index: 1;
+}
+
+.table {
+    --bs-table-color: white;
+    --bs-table-bg: transparent;
+    border-style: double;
+    margin: 0 30px 30px 0;
+    display: inline-table;
+}
+
+.link {
+    color: white;
+    font-size: 1.3em;
+    padding-left: 4px;
+}
+
+a {
+    color: whitesmoke;
+}
+
+pre {
+    max-width: 100%;  /* Limita a largura máxima ao tamanho da tela */
+    overflow-x: auto; /* Permite rolagem horizontal caso necessário */
+    white-space: pre-wrap; /* Faz com que o texto dentro da tag <pre> quebre linhas automaticamente */
+    word-wrap: break-word; /* Quebra palavras longas para evitar overflow */
 }
