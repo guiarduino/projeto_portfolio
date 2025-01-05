@@ -1,8 +1,8 @@
 # Projeto Portfólio Front-end
 
-Bem-vindo ao meu projeto de portfólio!
-Este projeto foi desenvolvido usando React e Bootstrap para apresentar meus trabalhos, habilidades e experiências.
-Esta é a parte front-end do projeto, a parte back-end esta no repositorio: https://github.com/guiarduino/projeto_portfolio_back.
+Bem-vindo ao meu projeto de portfólio!<br>
+Este projeto foi desenvolvido usando React e Bootstrap para apresentar meus trabalhos, habilidades e experiências.<br>
+Esta é a parte front-end do projeto, a parte back-end esta no repositorio: https://github.com/guiarduino/projeto_portfolio_back.<br>
 
 ## Tecnologias Utilizadas
 
@@ -36,9 +36,9 @@ Siga os passos abaixo para rodar o projeto localmente:
     npm start
 
 5. Acesse a pagina:
-    Abra seu navegador e acesse o link http://localhost:3000/
+    - Abra seu navegador e acesse o link http://localhost:3000/
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, pode me contatar em guibarlatti@gmail.com
+Se você tiver alguma dúvida ou sugestão, pode me contatar em guibarlatti@gmail.com<br>
 Obrigado por visitar meu portfólio!
